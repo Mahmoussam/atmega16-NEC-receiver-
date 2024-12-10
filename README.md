@@ -50,4 +50,4 @@ rest of the pins are power connections , pretty much found everywhere online.
 ## License
 This project is licensed under the MIT License. Feel free to use and modify it.
 
-
+![hardware](https://github.com/Mahmoussam/atmega16-NEC-receiver-/blob/master/hardware_poc.jpg)
