@@ -3,6 +3,7 @@
 This project demonstrates how to interface an **ATmega16A microcontroller** with an **NEC IR receiver module (TSOP38)** to decode IR remote control signals. The decoded signals can be used to control various devices or applications.
 
 my main goal is to use the 8-bit timer2 so that the 16-bit timer is available for integrating USB support as HID device (next step).
+
 note that my receiver signal is inverted.
 ![Logic analyzer output for my actual IR signal](https://github.com/Mahmoussam/atmega16-NEC-receiver-/blob/master/logic_NEC.png)
 ## Specs
